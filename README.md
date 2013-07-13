@@ -1,4 +1,5 @@
-kbsm1_enchantjs_Practice
+battle.vs
 ========================
 
-Template!
+ロールプレイングゲームの戦闘シーン。
+コマンドをクリックしてバトルをします。
